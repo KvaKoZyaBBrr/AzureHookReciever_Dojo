@@ -1,0 +1,6 @@
+@AzureHookReceiver_Dojo_HostAddress = http://localhost:5096
+
+GET {{AzureHookReceiver_Dojo_HostAddress}}/main/
+Accept: application/json
+
+###

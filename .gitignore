@@ -1,0 +1,5 @@
+/bin
+/obj
+*.Development.json
+/.vs
+
